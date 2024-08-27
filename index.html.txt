@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>home page</title>
+	<meta charset="utf-8">
+</head>
+<body>
+
+<nav>
+		<ul>
+			<li><a href="./chap1/index.html">CHAP1</a></li>
+			<li><a href="./chap2/index.html">CHAP2</a></li>
+		<ul>
+</nav>
+<hl>Hello World my name is Your_Name</h1>
+<p>I just create my first web page</p>
+
+</body>
+</html>

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>chap2</title>
+	<meta charset="utf-8">
+</head>
+<body>
+
+<hl>My Template</h1>
+
+</body>
+</html>
